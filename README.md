@@ -5,6 +5,7 @@ molecool
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master)
 [![CodeFactor](https://www.codefactor.io/repository/github/sinamostafanejad/mock_repo/badge)](https://www.codefactor.io/repository/github/sinamostafanejad/mock_repo)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/SinaMostafanejad/mock_repo.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/SinaMostafanejad/mock_repo/context:python)
+![Python application](https://github.com/SinaMostafanejad/mock_repo/workflows/Python%20application/badge.svg)
 
 A python package for visualization
 
