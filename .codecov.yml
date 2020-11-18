@@ -12,3 +12,4 @@ comment:
   behavior: default
   flags: null
   paths: null
+  CODECOV_TOKEN=b25bbafa-751f-4dc5-9d4f-67b22eadef48
